@@ -1,4 +1,4 @@
-# HealthRoleBench: Role-Aware Health Misinformation Benchmark
+# Who Spreads Misinformation? Benchmarking LLMs on Role-Aware Health Narratives
 
 Most existing misinformation datasets focus on factual correctness.  
 HealthRoleBench instead introduces a role-centric perspective:
